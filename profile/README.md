@@ -1,5 +1,7 @@
-## Hi there 👋
 
+NINE-VERSE 是一个持续生长中的第九艺术创作组织。
+
+我们期待与创作者同行，共同探索第九艺术的浩瀚宇宙。
 <!--
 
 **Here are some ideas to get you started:**
